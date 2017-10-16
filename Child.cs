@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+////////////////////////////////////////////////
 public class Child : MonoBehaviour {
 	 void DisplayInfo(){
 		print ("child");
